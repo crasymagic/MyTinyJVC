@@ -48,6 +48,3 @@ We have good experience using these editors:
 
 ### Visual Studio Code + Debugger for Chrome
 > Install [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) and see docs for instructions to launch Chrome
-
-# License
- [MIT](/LICENSE)
