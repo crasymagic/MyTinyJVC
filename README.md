@@ -5,7 +5,7 @@
 ```bash
 
 # change directory to our repo
-cd MyTinyJVC
+cd VGTA 
 
 # install the repo with npm
 npm install
